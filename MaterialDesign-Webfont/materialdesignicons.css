@@ -1,2 +1,2 @@
-@font-face {font-family:'Material Design Icons';font-weight:normal;font-style:normal;font-display:swap;src:url('materialdesignicons.woff2') format('woff2');}
+@font-face {font-family:'Material Design Icons';font-weight:normal;font-style:normal;font-display:swap;src:url('materialdesignicons.woff2') format('woff2');src:url('materialdesignicons.eot') format('eot');}
 .mdi:before,.mdi-set{display:inline-block;font:normal normal normal 24px/1 "Material Design Icons";font-size:inherit;text-rendering:auto;line-height:inherit;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
